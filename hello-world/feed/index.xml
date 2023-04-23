@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for try	</title>
-	<atom:link href="https://perfectocayabyab.github.io/TryWord/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://perfectocayabyab.github.io/TryWord</link>
+	Comments on: Hello world!	</title>
+	<atom:link href="https://perfectocayabyab.github.io/TryWord/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://perfectocayabyab.github.io/TryWord/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Sat, 22 Apr 2023 17:02:06 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>https://perfectocayabyab.github.io/TryWord/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
